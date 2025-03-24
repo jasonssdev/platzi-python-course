@@ -1,1 +1,1 @@
-# platzi-python-course
+# Platzi Python Course
